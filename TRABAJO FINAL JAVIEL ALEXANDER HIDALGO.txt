@@ -1,0 +1,7 @@
+Hola, mi nombre es Javiel Alexander Hidalgo, matrícula 21-EISN-2-019.
+En este proyecto desarrollé una aplicación que usa inteligencia artificial para reconocer dibujos hechos por el usuario en una página web, combinando datos de MNIST y QuickDraw, y exponiendo la app mediante Flask y ngrok.
+
+Video presentacion: https://www.youtube.com/watch?v=DHcUqHDyjnQ
+
+LINK DE MI REPOSITORIO: https://github.com/javiel2123/Proyecto-Final-IA/tree/main
+
